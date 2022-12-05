@@ -1,0 +1,66 @@
+*{
+
+    margin: auto;
+    width: 3300px;
+}
+body{
+
+    
+    background-image: url(Vlansky.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    
+}
+h1{
+
+    color: black;
+    font-family: arial, Verdana, sans-serif;
+    font-size: 22px;
+    text-indent: 380px;
+    text-transform: capitalize;
+
+}
+img{
+
+    background-image: url(a.jpg);
+    position: absolute;
+    left: 400px;
+    height: 302px;
+    width: 500px;
+}
+p{
+
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.8;
+    margin-top: 320px;
+}
+#a{
+
+    margin-top: 222px;
+    font-size: 40px;
+    background-color: red;
+
+}
+ul{
+    
+    color: darkblue; 
+    margin-top: 300px;
+    font-size: 40px;
+}
+li{
+    
+    color: darkblue;
+    margin-top: 250px;
+    font-size: 30px;
+    list-style-type: square;
+    list-style-position: center;
+}
+.sla{
+
+    color: darkblue;
+    margin-top: 75px;
+
+}
